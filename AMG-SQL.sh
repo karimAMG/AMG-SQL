@@ -1,6 +1,6 @@
 #!/bin/bash
 #version 1.0
-#created by karimAmougay
+#Copyright 2017 karimAmougay
 clear
 red='\033[0;31m'
 black='\033[0;30m'
