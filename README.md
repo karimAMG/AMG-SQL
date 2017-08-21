@@ -26,6 +26,5 @@ cd AMG-SQL && ./AMG-SQL.sh
 
 
 - ![](https://placehold.it/15/f03c15/000000?text=+) Paypal : https://www.paypal.me/karimAmougay
-Bitcoin : 1XdMysF57a7zMgqjZoVczP5E42Gm7FTMf
 - ![](https://placehold.it/15/1589F0/000000?text=+) Bitcoin : 1XdMysF57a7zMgqjZoVczP5E42Gm7FTMf
 
