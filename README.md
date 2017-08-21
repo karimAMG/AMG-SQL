@@ -25,7 +25,7 @@ cd AMG-SQL && ./AMG-SQL.sh
 - <a href="https://www.paypal.me/karimAmougay"><img src="http://www.ingenieris.net/media/images/logo_paypal.jpg" alt="Paypal Donation" height="50px" width="180px"></a>
 
 
-- ![](https://placehold.it/15/f03c15/000000?text=+) https://www.paypal.me/karimAmougay
-- ![](https://placehold.it/15/c5f015/000000?text=+) 
-- ![](https://placehold.it/15/1589F0/000000?text=+)
+- ![](https://placehold.it/15/f03c15/000000?text=+) Paypal : https://www.paypal.me/karimAmougay
+Bitcoin : 1XdMysF57a7zMgqjZoVczP5E42Gm7FTMf
+- ![](https://placehold.it/15/1589F0/000000?text=+) Bitcoin : 1XdMysF57a7zMgqjZoVczP5E42Gm7FTMf
 
