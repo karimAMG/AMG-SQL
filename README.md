@@ -19,10 +19,19 @@ mixed with arabic & English & no coding & Easy to use.
 Dependencies will be automatically installed.:
 ```
 git clone https://github.com/karimAMG/AMG-SQL
+
+wget 'https://github.com/sqlmapproject/sqlmap/tarball/master' --output-document=sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
+
+tar -xvf sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
+
+cd sqlmapproject-sqlmap-a761e1d
+
+mv sqlmapproject-sqlmap-a761e1d/* AMG-SQL
+
 cd AMG-SQL && ./AMG-SQL.sh
 ```
 # Donations
-- <a href="https://www.paypal.me/karimAmougay"><img src="http://www.ingenieris.net/media/images/logo_paypal.jpg" alt="Paypal Donation" height="50px" width="180px"></a>
+- <a href="https://www.paypal.me/karimAmougay/0.99"><img src="http://www.ingenieris.net/media/images/logo_paypal.jpg" alt="Paypal Donation" height="50px" width="180px"></a>
 
 
 - ![](https://placehold.it/15/f03c15/000000?text=+) Paypal : https://www.paypal.me/karimAmougay
