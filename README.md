@@ -18,15 +18,15 @@ mixed with arabic & English & no coding & Easy to use.
 
 Dependencies will be automatically installed.:
 ```
+mkdir amgk200 && cd amgk200
+
 git clone https://github.com/karimAMG/AMG-SQL
 
 wget 'https://github.com/sqlmapproject/sqlmap/tarball/master' --output-document=sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
 
 tar -xvf sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
 
-cd sqlmapproject-sqlm*
-
-mv sqlmapproject-sqlma*/* AMG-SQL
+mv sqlmapproject-sqlma*/*  AMG-SQL
 
 cd AMG-SQL && ./AMG-SQL.sh
 ```
