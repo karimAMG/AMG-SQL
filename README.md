@@ -24,9 +24,9 @@ wget 'https://github.com/sqlmapproject/sqlmap/tarball/master' --output-document=
 
 tar -xvf sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
 
-cd sqlmapproject-sqlmap-a761e1d
+cd sqlmapproject-sqlm*
 
-mv sqlmapproject-sqlmap-a761e1d/* AMG-SQL
+mv sqlmapproject-sqlma*/* AMG-SQL
 
 cd AMG-SQL && ./AMG-SQL.sh
 ```
