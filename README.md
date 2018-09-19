@@ -31,7 +31,7 @@ mv sqlmapproject-sqlma*/*  AMG-SQL
 cd AMG-SQL && ./AMG-SQL.sh
 ```
 # Buy Me a Coffe :
-- <a href="https://www.paypal.me/karimAmougay/1.99"><img src="http://www.ingenieris.net/media/images/logo_paypal.jpg" alt="Paypal Donation" height="50px" width="180px"></a>
+- <a href="https://www.paypal.me/karimAmougay/1.99" target="_blank"><img src="http://www.ingenieris.net/media/images/logo_paypal.jpg" alt="Paypal Donation" height="50px" width="180px"></a>
 
 
 - ![](https://placehold.it/15/f03c15/000000?text=+) Paypal : https://www.paypal.me/karimAmougay/1.99
